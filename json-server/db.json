@@ -1,0 +1,120 @@
+{
+  "messages": [
+    {
+      "id": 0,
+      "userId": 0,
+      "createdAt": 1598157159013,
+      "body": "Hello. This is a test message"
+    },
+    {
+      "id": 1,
+      "userId": 0,
+      "createdAt": 1598257009230,
+      "body": "And this is a second one"
+    },
+    {
+      "body": "Test",
+      "userId": 1,
+      "createdAt": 1598257009230,
+      "id": 2
+    },
+    {
+      "body": "Last one",
+      "userId": 0,
+      "createdAt": 1598984876332,
+      "id": 3
+    },
+    {
+      "body": "Привет, русские есть",
+      "userId": 5,
+      "createdAt": 1599128179553,
+      "id": 4
+    },
+    {
+      "body": "Отправка по Enter",
+      "userId": 5,
+      "createdAt": 1599128232361,
+      "id": 5
+    },
+    {
+      "body": "Работает, отлично",
+      "userId": 5,
+      "createdAt": 1599128239583,
+      "id": 6
+    },
+    {
+      "body": "Extremely large chat message from tester for testing purpose. Bunch of more words. Lets check if it can fit one line. I hope it does",
+      "userId": 5,
+      "createdAt": 1599527198902,
+      "id": 7
+    },
+    {
+      "body": "One more",
+      "userId": 5,
+      "createdAt": 1599527345768,
+      "id": 8
+    },
+    {
+      "body": "123",
+      "userId": 5,
+      "createdAt": 1599798563103,
+      "id": 9
+    },
+    {
+      "body": "j",
+      "userId": 5,
+      "createdAt": 1599798583773,
+      "id": 10
+    },
+    {
+      "body": "test",
+      "userId": 5,
+      "createdAt": 1599798873208,
+      "id": 11
+    },
+    {
+      "body": "1",
+      "userId": 5,
+      "createdAt": 1599798874232,
+      "id": 12
+    },
+    {
+      "body": "2",
+      "userId": 5,
+      "createdAt": 1599798874864,
+      "id": 13
+    }
+  ],
+  "users": [
+    {
+      "name": "tm_mlt",
+      "token": "174450bbaa2",
+      "id": 0
+    },
+    {
+      "name": "oppa",
+      "token": "174450e320c",
+      "id": 1
+    },
+    {
+      "name": "test",
+      "token": "17449c33762",
+      "id": 2
+    },
+    {
+      "name": "admin",
+      "token": "174450bbaa2",
+      "id": 3
+    },
+    {
+      "name": "test2",
+      "token": "174450bbaa2",
+      "id": 4
+    },
+    {
+      "name": "tester",
+      "token": "174450bbaa2",
+      "id": 5
+    }
+  ]
+}
